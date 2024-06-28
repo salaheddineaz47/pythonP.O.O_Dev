@@ -1,0 +1,23 @@
+1)
+jeunesse : "-esse"
+évacuation : "-tion"
+portillon : "-illon"
+rameur : "-eur"
+chauffage : "-age"
+moissonneuse : "-euse"
+habileté : "-té"
+cotelette : "-ette"
+barbiche : "-iche"
+cafetière : "-ière"
+
+2)
+
+placement : "-ment"
+participation : "-tion"
+coiffure : "-ure"
+formation : "-tion"
+revable : "-able"
+magasin : "-asin"
+postier : "-ier"
+
+
